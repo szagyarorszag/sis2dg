@@ -349,32 +349,9 @@ The pipeline includes several quality checks:
 - Loading: ~1-2 seconds
 - Total pipeline: ~3-5 minutes
 
-## Future Enhancements
-
-1. Add email notifications on pipeline failure
-2. Implement data validation rules
-3. Add more product categories
-4. Create data visualization dashboard
-5. Implement incremental updates (only new products)
-6. Add data quality monitoring alerts
 
 ## Team Members
 
 - **Daniil** - KBTU 
 - **Bakytzhan** - KBTU 
 
-## Submission Information
-
-- **Submission Deadline:** December 4, 2025, 23:59:59
-- **Defense Date:** December 5, 2025
-- **GitHub Repository:** [Your repository URL]
-
-## License
-
-This project is created for educational purposes as part of KBTU coursework.
-
-## Acknowledgments
-
-- DNS Shop Kazakhstan for providing the data source
-- Apache Airflow for workflow orchestration
-- Selenium for web scraping capabilities
