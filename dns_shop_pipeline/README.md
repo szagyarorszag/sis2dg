@@ -8,7 +8,7 @@ This project implements a complete ETL (Extract, Transform, Load) data pipeline 
 
 ## Why DNS Shop Kazakhstan?
 
-DNS Shop is a major electronics retailer in Kazakhstan with a dynamic website that:
+DNS Shop is a major electronics retailer in Kazakhstan(actually Russian) with a dynamic website that:
 - Uses JavaScript rendering for product listings
 - Implements infinite scroll for loading products
 - Contains rich product data (prices, ratings, availability)
@@ -113,7 +113,6 @@ dns_shop_pipeline/
 ## Installation & Setup
 
 ### Prerequisites
-- Python 3.8+
 - Chrome browser (for Selenium)
 - ChromeDriver (automatically managed by webdriver-manager)
 
