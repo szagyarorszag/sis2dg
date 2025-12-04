@@ -360,8 +360,8 @@ The pipeline includes several quality checks:
 
 ## Team Members
 
-- **Daniil** - KBTU Business School
-- **[Partner Name]** - KBTU Business School
+- **Daniil** - KBTU 
+- **Bakytzhan** - KBTU 
 
 ## Submission Information
 
