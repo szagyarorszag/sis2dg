@@ -349,7 +349,6 @@ The pipeline includes several quality checks:
 - Loading: ~1-2 seconds
 - Total pipeline: ~3-5 minutes
 
-
 ## Team Members
 
 - **Daniil** - KBTU 
