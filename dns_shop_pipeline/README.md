@@ -308,10 +308,6 @@ GROUP BY price_category;
 ### Issue: Selenium can't find Chrome
 **Solution:** Install Chrome and ChromeDriver
 ```bash
-# Ubuntu/Debian
-sudo apt-get install chromium-browser chromium-chromedriver
-
-# Or use webdriver-manager (automatic)
 pip install webdriver-manager
 ```
 
