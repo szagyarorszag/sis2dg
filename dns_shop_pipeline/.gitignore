@@ -23,6 +23,8 @@ wheels/
 .installed.cfg
 *.egg
 
+
+
 # Airflow
 airflow.db
 airflow.cfg
@@ -50,3 +52,4 @@ Thumbs.db
 # Selenium
 chromedriver
 geckodriver
+
